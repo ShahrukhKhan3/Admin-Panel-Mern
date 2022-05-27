@@ -1,0 +1,2 @@
+# createStore
+# initState, reducer fun
